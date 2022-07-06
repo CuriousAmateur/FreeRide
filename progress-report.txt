@@ -1,2 +1,3 @@
 Getting to know the basics of tortoise git, handling some errors. 
 Cloning a repo.
+Push the file to branch.
